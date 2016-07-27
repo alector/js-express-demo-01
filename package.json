@@ -1,0 +1,22 @@
+{
+  "name": "js-express-01",
+  "version": "1.0.0",
+  "description": "just an example of express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alector/js-express-demo-01.git"
+  },
+  "author": "Alector",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alector/js-express-demo-01/issues"
+  },
+  "homepage": "https://github.com/alector/js-express-demo-01",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
